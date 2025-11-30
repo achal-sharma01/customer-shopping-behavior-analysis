@@ -9,6 +9,7 @@ The workflow follows a real industry pipeline:
 
 Python → SQL → Power BI → Report → Presentation
 
+
 📂 Dataset
 
 3,900 rows, 18+ features
@@ -25,6 +26,7 @@ Discounts & shipping types
 
 Purchase amount
 
+
 🛠 Tools & Technologies
 
 Python: pandas, numpy, matplotlib
@@ -36,6 +38,7 @@ SQL: Business analysis, aggregations, joins, segmentation
 Power BI: KPI cards, charts, slicers, interactive dashboard
 
 Gamma / PDF: Final presentation & report
+
 
 🔧 Project Steps
 1. Data Preparation (Python)
@@ -49,6 +52,7 @@ Cleaned missing values
 Created new features (e.g., age groups)
 
 Exported cleaned data to SQL
+
 
 2. SQL Analysis
 
@@ -70,6 +74,7 @@ Repeat buyer patterns
 
 Revenue by age group
 
+
 3. Power BI Dashboard
 
 Built an interactive dashboard containing:
@@ -88,11 +93,13 @@ Subscription status donut chart
 
 Filters for gender, category, and shipping type
 
+
 4. Final Report & Presentation
 
 Insights compiled into a PDF report
 
 A clean recruiter-friendly PPT made using Gamma
+
 
 📈 Key Insights
 
