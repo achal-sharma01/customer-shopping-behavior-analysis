@@ -56,9 +56,9 @@ Built an interactive dashboard featuring:
 
 ## 📈 Key Insights
 
-- Young adults (18–25) generated the highest revenue share among all age groups
-- Male customers spent more on average than female customers
-- Loyal, repeat customers made up the largest share of total revenue — not one-time buyers
+- Male customers spent more per person on average ($71.48 vs. $44.47) and, combined with a larger customer base (57%), generated 2.1x total revenue
+- Young Adults generated the highest revenue among all age groups
+- Loyal customers made up the vast majority of the customer base (3,116 of 3,900) — indicating strong retention, though the New customer segment remains small (83)
 - Gloves, sandals, and boots were the highest-rated product categories
 - Discount usage was concentrated in a small number of product categories rather than spread evenly
 - Subscribers and non-subscribers spent similar average amounts — subscription status alone did not predict spend
